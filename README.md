@@ -1,7 +1,7 @@
 # Agentic-AI
 Agentic-AI:-<br/>
 Type(s) Of Agent(s):-<br/>
-I. React Agent:<br/>
+I. ReAct Agent:<br/>
     1) Reason(s)<br/>
     2) Act(s)<br/>
     3) Observe(s)<br/>
